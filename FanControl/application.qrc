@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sensors.json</file>
+        <file>res/cog.png</file>
+        <file>res/cog-press.png</file>
+        <file>res/fan.png</file>
+        <file>res/thermometer.png</file>
+        <file>res/thermometer-press.png</file>
+        <file>res/bar.png</file>
+    </qresource>
+</RCC>
